@@ -7,4 +7,7 @@ __Efficient Face Spoofing Detection with Flash. (under review)__
 Please note that,  
  - The database is available for academic research purposes only.  
  - Modification and re-distribution are strictly prohibited.
+ - Face images of a subject cannot be published or displayed in public without permission.  
+ 
+ 
 
