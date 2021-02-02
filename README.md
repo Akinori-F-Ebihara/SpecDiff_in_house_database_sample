@@ -9,5 +9,17 @@ Please note that,
  - Modification and re-distribution are strictly prohibited.
  - Face images of a subject cannot be published or displayed in public without permission.  
  
- 
+ ## Citation
+___Please cite our paper if you use the whole or a part of our example database.___
+```
+
+@INPROCEEDINGS{SpecDiff,
+  author    = {Akinori F. Ebihara and
+               Kazuyuki Sakurai and
+               Hitoshi Imaoka},
+  booktitle={2020 IEEE International Joint Conference on Biometrics (IJCB)}, 
+   title     = {Specular- and Diffuse-reflection-based Face Liveness Detection for
+               Mobile Devices},
+  year={2020}
+  }
 
