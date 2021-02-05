@@ -9,6 +9,11 @@ Please note that,
  - Modification and re-distribution are strictly prohibited.
  - Face images of a subject cannot be published or displayed in public without permission.  
  
+ ## Description
+ Each folder under the data folder contains photos with flash ($P_f$) and photos without flash ($P_b$), alternately.  
+ 
+ 
+
  ## Citation
 ___Please cite our paper if you use the whole or a part of our example database.___
 ```
