@@ -9,6 +9,12 @@ Please note that,
  - Modification and re-distribution are strictly prohibited.
  - Face images of a subject cannot be published or displayed in public without permission.  
  
+ ## Description
+ Each folder under the data folder contains photos of the same ID taken with flash ($P^{(f)}$) and without flash ($P^{(b)}$), alternately.  
+ For example, the first file under a folder "ID000", IMG_0324.JPG, is a photo taken with flash. The second file, IMG_0325.JPG is a photo taken without flash. These two photos are taken within few hundreds of milliseconds. The third and fourth files are another pair of photos taken with and without flash, respectively.
+ 
+ 
+
  ## Citation
 ___Please cite our paper if you use the whole or a part of our example database.___
 ```
