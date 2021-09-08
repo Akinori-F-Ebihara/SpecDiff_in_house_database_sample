@@ -2,7 +2,7 @@
 This repository contains example data used as the in-house database in the following two papers:  
   
 __Specular- and Diffuse-reflection-based Face Spoofing Detection for Mobile Devices. (IJCB2020)__  
-__Efficient Face Spoofing Detection with Flash. (under review)__  
+__Efficient Face Spoofing Detection with Flash. (IEEE TBIOM)__  
 
 Please note that,  
  - The database is available for academic research purposes only.  
@@ -16,16 +16,25 @@ Please note that,
  
 
  ## Citation
-___Please cite our paper if you use the whole or a part of our example database.___
+___Please cite one of our papers if you use the whole or a part of our example database.___
 ```
 
-@INPROCEEDINGS{SpecDiff,
-  author    = {Akinori F. Ebihara and
-               Kazuyuki Sakurai and
-               Hitoshi Imaoka},
+@INPROCEEDINGS{Ebihara_IJCB2020,
+  author={Ebihara, Akinori F. and Sakurai, Kazuyuki and Imaoka, Hitoshi},
   booktitle={2020 IEEE International Joint Conference on Biometrics (IJCB)}, 
-   title     = {Specular- and Diffuse-reflection-based Face Liveness Detection for
-               Mobile Devices},
-  year={2020}
-  }
+  title={Specular- and Diffuse-reflection-based Face Spoofing Detection for Mobile Devices}, 
+  year={2020},
+  volume={},
+  number={},
+  pages={1-10},
+  doi={10.1109/IJCB48548.2020.9304862}}
 
+@ARTICLE{Ebihara_TBIOM2021,
+  author={Ebihara, Akinori F. and Sakurai, Kazuyuki and Imaoka, Hitoshi},
+  journal={IEEE Transactions on Biometrics, Behavior, and Identity Science}, 
+  title={Efficient Face Spoofing Detection with Flash}, 
+  year={2021},
+  volume={},
+  number={},
+  pages={1-1},
+  doi={10.1109/TBIOM.2021.3076816}}
